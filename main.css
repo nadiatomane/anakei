@@ -1,3 +1,6 @@
 .footer.footer--border-top {
     border-top: 7px solid var(--border-top-color, #e6e6e6)!important;
 }
+input#mce-EMAIL[type="email"]::placeholder {
+    color: red;
+}
